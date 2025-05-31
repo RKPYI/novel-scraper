@@ -1,0 +1,14 @@
+# Python/venv
+.env
+*.pyc
+__pycache__/
+*.log
+venv/
+.env.*
+!.env.example
+# VSCode
+.vscode/
+# OS
+.DS_Store
+Thumbs.db
+scrape/
